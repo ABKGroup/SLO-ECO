@@ -10,6 +10,7 @@ The paper has been published in the ISQED 2024 conference, and presented in 4A.3
 ### Where are the SLO-ECO source codes?
 - Location: [src/eco/src](src/eco/src)
 - Tcl commands registered to this binary (SWIG): [src/eco/src/CoreEco.i](src/eco/src/CoreEco.i)
+- Top-level script to run the entire flow: [src/eco/scripts/run_gen_all.py](src/eco/scripts/run_gen_all.py)
 
 ### SMT2 formulations from [SLO-ECO paper](https://vlsicad.ucsd.edu/Publications/Conferences/406/c406.pdf) (See footnote 2 and 3)
 - Commodity flow conservation (CFC)
